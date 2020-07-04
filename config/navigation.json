@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Pemrograman",
+    "dropdown": true,
+    "dropdown_menu": [
+      {
+        "name": "Javascript",
+        "link": "/kategori/js"
+      },
+      {
+        "name": "PHP",
+        "link": "/kategori/php"
+      },
+      {
+        "name": "Python",
+        "link": "/kategori/py"
+      }
+    ]
+  },
+  {
+    "name": "Mikrotik",
+    "link": "#"
+  }
+]

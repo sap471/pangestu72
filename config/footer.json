@@ -1,0 +1,31 @@
+{
+  "word": "Copyright 2020 EstuNetwork",
+  "navigation": [
+    {
+      "name": "About",
+      "slug": "/pages/about"
+    },
+    {
+      "name": "Contact",
+      "slug": "/pages/contact"
+    },
+    {
+      "name": "Disclaimer",
+      "slug": "/pages/disclaimer"
+    },
+    {
+      "name": "Privacy Policy",
+      "slug": "/pages/privacy"
+    },
+    {
+      "name": "Terms of Service",
+      "slug": "/pages/tos"
+    }
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/sap471",
+    "instagram": "#",
+    "twitter": "#",
+    "github": "#"
+  }
+}
