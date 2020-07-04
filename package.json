@@ -1,13 +1,14 @@
 {
-  "name": "EstuBlog",
+  "name": "estublog",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
+    "build": "cross-env NODE_ENV=production nuxt build",
     "start": "nuxt start",
     "export": "nuxt export",
     "serve": "nuxt serve",
+    "generate": "cross-env NODE_ENV=production nuxt generate",
     "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "lint": "yarn lint:js",
     "lintfix": "eslint --fix . --ext .js,.vue --ignore-path .gitignore ."
